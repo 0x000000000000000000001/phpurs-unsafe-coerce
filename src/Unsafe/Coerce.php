@@ -1,3 +1,6 @@
 <?php
 
-$Unsafe_Coerce_unsafeCoerce = function($x) { return $x; };
+$unsafeCoerce = function($x) use (&$unsafeCoerce) { return $x; };
+
+$exports['unsafeCoerce'] = $unsafeCoerce;
+return $exports;
