@@ -1,4 +1,4 @@
-# purescript-unsafe-coerce
+# phpurs-unsafe-coerce
 
 [![Latest release](http://img.shields.io/github/release/purescript/purescript-unsafe-coerce.svg)](https://github.com/purescript/purescript-unsafe-coerce/releases)
 [![Build status](https://github.com/purescript/purescript-unsafe-coerce/workflows/CI/badge.svg?branch=master)](https://github.com/purescript/purescript-unsafe-coerce/actions?query=workflow%3ACI+branch%3Amaster)
