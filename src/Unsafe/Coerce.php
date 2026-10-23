@@ -1,6 +1,8 @@
 <?php
 
-$unsafeCoerce = function($x) { return $x; };
+$unsafeCoerce = function ($x) {
+    return $x;
+};
 
 $exports['unsafeCoerce'] = $unsafeCoerce;
 return $exports;
